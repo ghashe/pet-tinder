@@ -28,11 +28,7 @@ function Footer() {
       <footer>
         <ul id="contacts" class="social-media-icons">
           <li>
-            <a
-              href="mailto:emandaabyou@gmail.com?subject=Mail from Our Site"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="../Contact" target="_blank" rel="noopener noreferrer">
               <li>
                 <FiMail />
               </li>
@@ -62,7 +58,7 @@ function Footer() {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/abyou-geletu-5ba16622b"
+              href="https://github.com/ghashe/pet-tinder"
               target="_blank"
               rel="noopener noreferrer"
             >
