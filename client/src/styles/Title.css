@@ -17,6 +17,7 @@
   .cont {
     display: flex;
     position: absolute;
+    top: 154px;
     left: 0;
   }
 }
